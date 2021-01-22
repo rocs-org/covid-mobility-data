@@ -2,6 +2,8 @@
 
 This repository contains data created in the [Covid-19 mobility project](https://www.covid-19-mobility.org/).
 
+The datasets are updated once per week.
+
 ## Datasets
 
 ### Mobility change
