@@ -16,6 +16,7 @@ Provided are the datasets:
 
 - mobility_change_germany: The mobility change for all of Germany
 - mobility_change_bundeslaender: The mobility change in the federal states of Germany.
+- mobility_change_kreise: Mobility in the Stadt- and Landkreise (districts) of Germany (with NUTS 3 code).
 
 In addition to the mobility change, a 7 day running average of the mobility change is provided (centered around each date, and only given if a full 7 day window is available).
 
