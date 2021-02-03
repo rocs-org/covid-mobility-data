@@ -20,6 +20,18 @@ Provided are the datasets:
 
 In addition to the mobility change, a 7 day running average of the mobility change is provided (centered around each date, and only given if a full 7 day window is available).
 
+### Citation
+
+If you want to use this data in a publication, please cite the OpenScienceFramework repository as a data source (which links to this repo):
+[https://osf.io/n53cz/](https://osf.io/n53cz/)
+
+In addition, please cite the following publication which explains the data in more detail:
+
+COVID-19 lockdown induces disease-mitigating structural changes in mobility networks
+Frank Schlosser, Benjamin F. Maier, Olivia Jack, David Hinrichs, Adrian Zachariae, Dirk Brockmann
+Proceedings of the National Academy of Sciences Dec 2020, 117 (52) 32883-32890; DOI: 10.1073/pnas.2012326117
+[https://www.pnas.org/content/117/52/32883](https://www.pnas.org/content/117/52/32883)
+
 ### Contact
 
 frank.schlosser@hu-berlin.de
